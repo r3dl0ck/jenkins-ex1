@@ -5,3 +5,4 @@ Jenkins Pipeline powinień być wykonywany po każdej modyfikacji.
 
 test
 test
+tesst
