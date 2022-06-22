@@ -7,6 +7,7 @@ pipeline {
                 sh '''
                     echo "Wykonywanie ..."
                     ls -lh
+                    exit 1
                 '''
             }
         }
